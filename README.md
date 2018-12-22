@@ -45,7 +45,7 @@ Make sure you have enabled the multiverse and universe repositories before tryin
 
 ### Debian
 
-You can grab the Debian packages directly from the PPA itself and install it on any Debian distribution. You mainly need the "green-recorder" package and "python-pydbus". Other dependancies (like ffmpeg) are probably in Debian repositories: http://ppa.launchpad.net/fossproject/ppa/ubuntu/
+You can grab the Debian packages directly from the PPA itself and install it on any Debian distribution. You mainly need the "green-recorder" package and "python-pydbus". Other dependancies (like ffmpeg) are probably in Debian repositories: https://launchpad.net/~fossproject/+archive/ubuntu/ppa/+packages
 
 ### Fedora 24/25/26/27/Rawhide
 
